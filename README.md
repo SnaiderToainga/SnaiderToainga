@@ -21,7 +21,7 @@
 ### Conéctate conmigo 🔗
 
 <p align="center">
-  <a href="mailto:alexandertoapanta186@gmail.com.com" target="_blank">
+  <a href="alexandertoapanta186@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alexander-toapanta-263163407/" target="_blank">
