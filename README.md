@@ -53,4 +53,14 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
+## 📊 Estadísticas de GitHub
+
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=SnaiderToainga&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+</p>
+
+<p align='center'>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SnaiderToainga&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages">
+</p>
+
 ---
